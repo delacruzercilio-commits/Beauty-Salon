@@ -1,0 +1,7 @@
+{
+  "name": "Genesis Beauty Salon Visualizer",
+  "description": "A high-end salon application that allows clients to preview hairstyles by combining their photo with a reference style using the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
